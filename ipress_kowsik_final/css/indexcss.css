@@ -1,0 +1,158 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.header
+{
+	padding-top: 5px;
+	background-color: #333333;
+	height:40px;
+	width:100%;
+}
+
+.header img{
+
+    width: 15px;
+    vertical-align: middle;
+
+}
+
+.header p{
+
+	    display: inline-block;
+}
+
+.header .date{
+
+	margin-left:400px;
+}
+
+.header p{
+
+	margin-left:20px;
+	color: white;
+	font-size: 11px;
+}
+
+
+
+
+
+
+
+
+.navbar
+{
+	background-color: #333333;
+  	border-bottom-style: solid;
+  	border-bottom-color: red;
+
+	height:50px;
+	width:100%;
+
+
+
+
+}
+
+
+
+.listdata{
+
+	float: left;
+
+	display: inline-block;
+	margin-left: 109px;
+}
+
+
+
+.listdata a{
+
+
+	 display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.navbarhomecolor
+{
+
+	background-color: red;
+	width:50px;
+	height:50px;
+}
+
+.navbarhomecolor img{
+			margin-top: 12px;
+			margin-left: 12px;
+			width:25px;
+			height:25px;
+}
+
+
+.navbar .otherlinks:hover {
+  		background-color:red;
+}
+
+
+/*.navbar .common{
+
+padding-top: 12px;
+float: left;
+
+
+}*/
+
+
+
+
+.navbar .otherlinks{
+	/*	margin-left: 40px;
+		color: white;
+		display: inline-block;*/
+		float: left;
+		color: white;
+		padding: 13px;
+		cursor: pointer;
+}
+
+
+/*.navbar img{
+			
+			width:25px;
+			height:25px;
+}*/
+
+
+
+.navbar .navbarimage{
+		padding: 10px 10px;
+		margin-right: 136px;
+		float: right;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,338 @@
+.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday{
+float: left;
+width: 100%;
+}
+
+
+
+.bodycontainer .masterright .masterrighthalf .righttwo .lifestyle{
+float: left;
+width: 100%;
+margin-top: -37px; 
+}
+.bodycontainer .masterright .masterrighthalf .righttwo .carousel{
+float: left;
+width: 100%;
+margin-top: 20px; 
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .music{
+float: left;
+width: 100%;
+margin-top: 20px; 
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .worldnews{
+float: left;
+width: 100%;
+margin-top: 20px; 
+}
+
+
+
+
+
+
+
+.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday .postofthedaybar{
+float: left;
+width: 100%;
+background-color: red;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday .postofthedaybar p{
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .lifestyle .lifestylebar{
+float: left;
+width: 100%;
+background-color: #8ACEF8;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .lifestyle .lifestylebar p{
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .carousel .carouselbar{
+float: left;
+width: 100%;
+background-color: grey;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .carousel .carouselbar p{
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+
+
+.bodycontainer .masterright .masterrighthalf .righttwo .music .musicbar{
+float: left;
+width: 100%;
+background-color: green;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .music .musicbar p{
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .worldnews .worldnewsbar{
+float: left;
+width: 100%;
+background-color: #143863;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .worldnews .worldnewsbar p{
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+}
+
+
+
+
+
+
+.general{
+margin-top:59px; 
+width: 100%;
+height: 285px;
+
+}
+
+
+
+.generalblock{
+width: 100%;
+background-color: grey;
+height: 160px;
+
+}
+
+
+
+.generaldivisionone{
+
+float: left;
+width: 48%;
+/*background-color: pink;*/
+height: 285px;
+
+}
+
+
+
+
+
+.generaldivisiontwo{
+
+float: right;
+width: 48%;
+/*background-color: yellow;*/
+height: 285px;
+
+}
+
+
+
+
+
+
+
+.box{
+margin-top: 20px; 
+float: left;
+width: 150px;
+background-color: grey;
+height: 150px;
+margin-right: 1px;
+
+}
+
+
+
+
+.rec{
+margin-top: 20px; 
+float: left;
+width: 450px;
+background-color: #E0E0E0;
+height: 70px;
+margin-left: 60px; 
+
+}
+
+
+
+
+
+
+.footer{
+    margin-top: 10px;
+width: 100%;
+background-color: grey;
+ border-top-style: solid;
+  border-color: red;
+  height: 345px;
+}
+
+
+
+.footerleft{
+float: left;
+width: 50%;
+height: 100px;
+
+
+
+}
+
+
+
+
+.footerright{
+float: right;
+
+width: 50%;
+height: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+.generalbar p{
+
+    margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+
+
+
+}
+
+.generalbar p{
+
+    float: left;
+    width: 85%;
+    background-color: black;
+    margin-bottom: 15px;
+    margin-top: 10px;
+
+
+}
+
+
+.small{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+}
+
+
+
+.down {
+  float: left;
+  margin-left: 10px;
+  width: 0; 
+  height: 0; 
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 7px solid black;
+}
+
+
+
+.belowcontent
+{
+
+
+  cursor: pointer;
+}
+
+
+
+
+.videotab
+{
+    cursor: pointer;
+}
+
+
+
+
+
+/*
+.bodycontainer{
+
+
+}
+
+
+
+
+
+
+*/
+
+
+
+
+
+
+
+
+
+
+/*.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday{
+background-color: black;
+float: left;
+height: 300px;
+width: 65%;
+
+
+
+}
+
+
+.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday .postofthedaybar{
+float: left;
+width: 100%;
+background-color: black;
+margin-top: 10px; 
+}
+.bodycontainer .masterright .masterrighthalf .righttwo {
+background-color: black;
+width: 100px;
+height: 50px;
+
+}
+
+.bodycontainer .masterright .masterrighthalf .righttwo .postoftheday .postofthedaybar p{
+
+	margin: 2px;
+    padding: 2px;
+    padding-left: 15px;
+
+
+}
+
+*/
